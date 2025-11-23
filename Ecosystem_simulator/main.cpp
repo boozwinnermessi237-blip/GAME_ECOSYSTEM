@@ -1,4 +1,3 @@
-# GAME_ECOSYSTEM
 // main.cpp 
 #include "Core/GameEngine.hpp"
 #include <iostream>
